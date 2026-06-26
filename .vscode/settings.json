@@ -15,5 +15,6 @@
     ],
     "C_Cpp.default.defines": [
         "ESP_PLATFORM"
-    ]
+    ],
+    "idf.currentSetup": "/home/nix/.espressif/v6.0.1/esp-idf"
 }
