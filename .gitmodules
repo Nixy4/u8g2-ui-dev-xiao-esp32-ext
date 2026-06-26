@@ -1,0 +1,6 @@
+[submodule "components/u8g2"]
+	path = components/u8g2
+	url = https://github.com/Nixy4/u8g2.git
+[submodule ".reference/MNUI"]
+	path = .reference/MNUI
+	url = https://github.com/Nixy4/MNUI.git

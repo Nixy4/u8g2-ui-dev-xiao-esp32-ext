@@ -1,0 +1,19 @@
+{
+    "idf.espIdfPath": "/home/nix/.espressif/v6.0.1/esp-idf",
+    "idf.toolsPath": "/home/nix/.espressif",
+    "idf.pythonInstallPath": "/home/nix/.espressif/python_env/idf6.0_py3.10_env",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.flashType": "UART",
+    "idf.customExtraPaths": "",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/main",
+        "${workspaceFolder}/components/**",
+        "/home/nix/.espressif/v6.0.1/esp-idf/components/**"
+    ],
+    "C_Cpp.default.defines": [
+        "ESP_PLATFORM"
+    ]
+}

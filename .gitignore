@@ -1,0 +1,11 @@
+# ESP-IDF build artifacts
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+
+# VSCode
+.vscode/*.log
+
+# Managed components
+managed_components/
